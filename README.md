@@ -1,3 +1,3 @@
-$ git add file readme.tex
+$ git add file readme.md
 $ git commit
 # land
